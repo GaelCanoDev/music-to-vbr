@@ -32,3 +32,13 @@ Necesitas tener instalado Python 3.8+ y la herramienta de línea de comandos `ff
    ```bash
    git clone [https://github.com/GaelCanoDev/music-to-vbr.git](https://github.com/GaelCanoDev/music-to-vbr.git)
    cd music-to-vbr
+
+🤝 Contribuciones
+
+Este proyecto nació como una herramienta personal, pero ¡las mejoras son bienvenidas! Si encuentras un error o tienes una idea (como integración con APIs de letras), siéntete libre de abrir un Issue o enviar un Pull Request.
+📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+✍️ Autor
+
+    GaelCanoDev - Desarrollador Principal - https://github.com/GaelCanoDev
